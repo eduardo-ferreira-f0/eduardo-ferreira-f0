@@ -1,4 +1,4 @@
-# Eduardo Ferreira
+
 
 Sou iniciante em programação e atualmente estou desempregado. Busco conhecimento na área através de cursos online, já tendo tido contato com HTML, CSS, Python, Java, Git e GitHub, principalmente por meio desses cursos.
 
