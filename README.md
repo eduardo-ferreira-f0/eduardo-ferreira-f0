@@ -33,10 +33,4 @@ Sou iniciante em programação e atualmente estou desempregado. Busco conhecimen
 Sinta-se à vontade para entrar em contato comigo para discussões, colaborações ou apenas para dizer olá! 😊
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-<p align="left"> <!img src="https://komarev.com/ghpvc/?username=eduardo-ferreira-f0&label=Profile%20views&color=2fa027&style=flat" alt="eduardo-ferreira-f0" /> </p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardo-ferreira-f0&show_icons=true&theme=tokyonight&locale=en" alt="eduardo-ferreira-f0" /></p>
